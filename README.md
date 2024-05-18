@@ -1,16 +1,18 @@
-<div align='center'><img style="width:30%" src='https://user-images.githubusercontent.com/105128267/218077760-5694a4ac-4e37-4de7-b31f-268ccd27400a.png'/></div>
+<div align='center'><img src='https://user-images.githubusercontent.com/105128267/224688338-8f1f28b7-029b-4ed7-a567-86de0c44ff42.png'/></div>
 
 <h2>About the project</h2>
 
-  <p>A <b>car rental</b> website is an online platform that allows users to rent cars for personal or business use. The website provides an easy-to-use interface for searching, comparing, and reserving cars from a wide selection of vehicles that vary in make, model, size, and price.</p>
+<p>This is a minimalist e-commerce website built with React and CSS. This
+website features a modern and intuitive design, with easy-to-use navigation and a
+simple shopping experience that puts the focus on the products.</p>
 
-<p>Credits for the design goes to <a href='https://xpeedstudio.com/'>XpeedStudio</a></p>
+<p>Credits for the design goes to <a href='https://github.com/Abderraouf-Rahmani'>Abderraouf</a></p>
 
-👉 Live Demo: <a href=''>Live Demo</a>
+👉 Live Demo: <a href=''>Ecommerce Demo</a>
 
 <h3>Build with:</h3>
 
-» Sass / Scss <br>
+» Vanilla CSS <br>
 » React JS
 
 <h2>Screenshots of the Project 📸</h2>
@@ -18,6 +20,26 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/218077675-f50ac9ae-8d2c-4196-aed8-f4490e142960.png'/>
+<img src='https://user-images.githubusercontent.com/105128267/213868640-e3421f0a-bb10-4352-82a1-1bda4df821e9.png'/>
+</div>
 
+<br><br>
+<h3 align='center'>Categories Page 👇</h3>
+
+<div align='center'>
+<img src='https://user-images.githubusercontent.com/105128267/213868668-55c03494-0835-43e0-9cb1-429b9a243a65.png'/>
+
+<br>
+<br>
+<h3 align='center'>Product Page 🎁</h3>
+
+<div align='center'>
+<img src='https://user-images.githubusercontent.com/105128267/213868690-5737cead-a56e-4500-88ff-d182426ce072.png'/>
+
+<br>
+<br>
+<h3 align='center'>Shopping Cart 🛒</h3>
+
+<div align='center'>
+<img src='https://user-images.githubusercontent.com/105128267/213868718-6760d6de-9060-406f-816d-f9b317bb0e0c.png'/>
 </div>
