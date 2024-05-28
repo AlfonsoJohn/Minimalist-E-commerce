@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-minimalistecommerce-dev-15d6b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382642944:role/amplify-minimalistecommerce-dev-15d6b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382642944:role/amplify-minimalistecommerce-dev-15d6b-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-minimalistecommerce-dev-15d6b-deployment",
+      "UnauthRoleName": "amplify-minimalistecommerce-dev-15d6b-unauthRole",
+      "StackName": "amplify-minimalistecommerce-dev-15d6b",
+      "StackId": "arn:aws:cloudformation:us-east-1:992382642944:stack/amplify-minimalistecommerce-dev-15d6b/50a27960-1d02-11ef-b13b-127b355d43a7",
+      "AmplifyAppId": "d2k1z3u8f2qbz3"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2k1z3u8f2qbz3",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
