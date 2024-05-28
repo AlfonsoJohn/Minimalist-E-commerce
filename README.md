@@ -6,7 +6,6 @@
 
 This is a minimalist e-commerce website built with React and CSS. This website features a modern and intuitive design, with easy-to-use navigation and a simple shopping experience that puts the focus on the products.
 
-Credits for the design go to [Abderraouf](https://github.com/Abderraouf-Rahmani).
 
 👉 Live Demo: [Ecommerce Demo](https://your-live-site-url)
 
