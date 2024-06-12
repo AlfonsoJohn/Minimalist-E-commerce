@@ -1,4 +1,4 @@
-# Minimalist Ecommerce
+# Minimalist Ecommerce.
 
 <div align='center'><img src='https://user-images.githubusercontent.com/105128267/224688338-8f1f28b7-029b-4ed7-a567-86de0c44ff42.png'/></div>
 
